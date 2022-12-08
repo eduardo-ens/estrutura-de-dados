@@ -2,14 +2,14 @@
 
 Exercícios realizados com objetivo de aprimorar conhecimentos em estrutura de dados.
 
-# /calcula-data
+### /calcula-data
 Inserir data e horário e retornar o horário acrescido de 1 segundo, o dia seguinte e o dia anterior a data passada.
 
-# /conceitos-basicos
+### /conceitos-basicos
 Criação de classes básicas em Java com atributos e métodos
 
-# /fila
+### /fila
 Criar fila, inserir valores e demonstrar o seu fluxo.
 
-# /ordenacao
+### /ordenacao
 Usar métodos de ordenação de vetor Bubble Sort, Insert Sort e Quick Sort e avaliar desempenho de cada método.
